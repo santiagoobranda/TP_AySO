@@ -1,2 +1,3 @@
 Usuario=osboxes
 model name	: AMD Ryzen 5 5600GT with Radeon Graphics
+model name	: AMD Ryzen 5 5600GT with Radeon Graphics
